@@ -1,4 +1,2 @@
 ### Hey!
-My name is Owen Leather. I am a programming member on First Robotics Team 1351: TKO. My main interest is computer science, but I also enjoy mechanical engineering.
-
-My main programming languages are Kotlin, Java, Python, and C++.
+My name is Owen Leather. I am a mentor for First Robotics Team 1351: TKO. I enjoy both computer science and mechanical engineering.
