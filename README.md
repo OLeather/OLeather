@@ -12,7 +12,7 @@
 
 My name is Owen Leather. I am a Mechatronics Engineering student at the University of Waterloo. Here's a bit about me:
 
-🛰️ Currently interning at [iMETALX Space Systems](imetalx.com) where I'm developing computer vision software for in-space servicing and manufacturing vehicles!
+🛰️ Currently interning at [iMETALX Space Systems](https://www.imetalx.com) where I'm developing computer vision software for in-space servicing and manufacturing vehicles!
 
 🚗 Team Captain @ WATonomous - The University of Waterloo's Self-Driving Car Team! You'll see me actively working on the [<img src="https://img.shields.io/static/v1?label=WATonomous&amp;message=wato_monorepo&amp;color=green&amp;logo=github" alt="wato_monorepo">](https://github.com/WATonomous/wato_monorepo)
 
