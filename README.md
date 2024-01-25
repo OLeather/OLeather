@@ -9,7 +9,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-My name is Owen Leather. I am a Mechatronics Engineering student at the University of Waterloo. Here's a bit about me:
+Hey! My name is Owen Leather. I am a Mechatronics Engineering student at the University of Waterloo. Here's a bit about me:
 
 🛰️ Currently interning at [iMETALX Space Systems](https://www.imetalx.com) where I'm developing computer vision software for in-space servicing and manufacturing vehicles
 
