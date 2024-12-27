@@ -5,16 +5,21 @@
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)\
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 Hey! My name is Owen Leather. I am a Mechatronics Engineering student at the University of Waterloo. Here's a bit about me:
 
-🛰️ Previous intern @ [iMETALX Space Systems](https://www.imetalx.com) where I developed computer vision software for in-space servicing and manufacturing vehicles
+🚚 Perception intern @ [Kodiak](https://kodiak.ai/) working on perception software for autonomous semi-trucks.
 
-🚗 Team Captain @ WATonomous - Leading a team to build a self-driving car from scratch! You'll see me actively working on the [<img src="https://img.shields.io/static/v1?label=WATonomous&amp;message=wato_monorepo&amp;color=green&amp;logo=github" alt="wato_monorepo">](https://github.com/WATonomous/wato_monorepo)
+🛰️ Previous intern @ [iMETALX Space Systems](https://www.imetalx.com) where I developed computer vision software autonomous spacecraft 
 
-📝 Student Researcher @ University of Waterloo, where I'm exploring novel methods for robots to understand dynamic environments with neural rendering
+📝 Student Researcher @ University of Waterloo, where I'm exploring novel methods for robots to understand dynamic environments with neural rendering. 
 
 🌱 I love to explore new topics through projects, and have a variety of interests and experiences including but not limited to machine learning, robot controls, and computer graphics
+
+### Publications:
+**Title**: [RALACs: Action Recognition in Autonomous Vehicles Using Interaction Encoding and Optical Flow](https://ieeexplore.ieee.org/abstract/document/10813578)  
+**Authors**: E. Zhou, O. Leather, A. Zhuang, A. Budhwani, R. Dempster, Q. Li, M. Al-Sharman, D. Rayside, W. Melek  
+**Published In**: IEEE Transactions on Cybernetics, 2024  
