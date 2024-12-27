@@ -11,13 +11,13 @@
 
 Hey! My name is Owen Leather. I am a Mechatronics Engineering student at the University of Waterloo. Here's a bit about me:
 
-🚚 Perception intern @ [Kodiak](https://kodiak.ai/) working on perception software for autonomous semi-trucks.
+🚚 Perception intern @ [Kodiak](https://kodiak.ai/) working on perception software for autonomous semi-trucks!
 
-🛰️ Previous intern @ [iMETALX Space Systems](https://www.imetalx.com) where I developed computer vision software autonomous spacecraft 
+🛰️ Previous intern @ [iMETALX Space Systems](https://www.imetalx.com) where I developed computer vision software autonomous spacecraft.
 
 📝 Student Researcher @ University of Waterloo, where I'm exploring novel methods for robots to understand dynamic environments with neural rendering. 
 
-🌱 I love to explore new topics through projects, and have a variety of interests and experiences including but not limited to machine learning, robot controls, and computer graphics
+🌱 I love to explore new topics through projects, and have a variety of interests and experiences including but not limited to machine learning, robot controls, and computer graphics.
 
 ### Publications:
 **Title**: [RALACs: Action Recognition in Autonomous Vehicles Using Interaction Encoding and Optical Flow](https://ieeexplore.ieee.org/abstract/document/10813578)  
